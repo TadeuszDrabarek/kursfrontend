@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<czary>
+	<mara src="psdfsdf" name="15" qwerty="dupa">
+		<napis>cyk</napis> 
+		<bzyk></bzyk>
+		<napis>hop</napis>
+	</mara>
+	
+	<mara>
+		<!-- Mieszkaliśmy w sdkjfbqljdfb  -->
+		<napis>cyk</napis>
+		<bzyk></bzyk>
+		<napis>hop</napis>
+	</mara>
+	
+	<mara>
+		<napis>cyk</napis>
+		<bzyk>notacja</bzyk>
+		<napis>hop</napis>
+	</mara>
+</czary>

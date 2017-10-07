@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Testowa lista krewnych -->
+<krewni>
+	<czlowiek>
+		<relacja>ja</relacja>
+		<imie>Tadeusz</imie>
+		<nazwisko>Drabarek</nazwisko>
+		<wiek>37</wiek>
+		<miasto>Warszawa</miasto>
+	</czlowiek>
+	<czlowiek>
+		<relacja>matka</relacja>
+		<imie>Barbara</imie>
+		<nazwisko>Drabarek</nazwisko>
+		<wiek>63</wiek>
+		<miasto>Legionowo</miasto>
+	</czlowiek>
+	<czlowiek>
+		<relacja>siostka</relacja>
+		<imie>Anna</imie>
+		<nazwisko>Drabarek</nazwisko>
+		<wiek>33</wiek>
+		<miasto>Legionowo</miasto>
+	</czlowiek>
+	<czlowiek>
+		<relacja>ciotka</relacja>
+		<imie>Małgorzata</imie>
+		<nazwisko>Stempkowska</nazwisko>
+		<wiek>71</wiek>
+		<miasto>Piaseczno</miasto>
+	</czlowiek>
+	<czlowiek>
+		<relacja>babcia</relacja>
+		<imie>Zofia</imie>
+		<nazwisko>Drabarek</nazwisko>
+		<wiek>93</wiek>
+		<miasto>Piaseczno</miasto>
+	</czlowiek>
+</krewni>
