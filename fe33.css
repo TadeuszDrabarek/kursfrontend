@@ -1,0 +1,68 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+h1 {
+	text-align:center;
+	font-size:40px;
+}
+
+#tresc{
+	margin-left:350px;
+	margin-right:20px;
+	padding-left: 10px;
+	border-left: 1px solid black;
+}
+
+#menu{
+	position:fixed;
+	top:10px;
+	width:300px;
+}
+
+#menu ul li {
+	border-bottom: 1px solid #ddd;
+	list-style: none	;
+}
+
+#menu a, a {
+	text-decoration:none;
+	color:blue;
+}
+
+#menu a:visited, a:visited{
+	color:blue;
+}
+
+#menu a:hover, a:hover{
+	color:white;
+	background-color:#ccc
+}
+
+#stopka{
+	border-top:1px solid black;
+	font-size:0.75em;
+	text-align:center;
+	/*clear: both; */
+}
+.ilustracja{
+		float:right;
+		padding:10px;
+		margin:10px;
+		border:1px solid grey;
+		box-shadow:3px 3px 3px rgba(0,0,0,0.5);
+}
+
+.ilustracja p{
+	text-align:center;
+}
+
+.wiersz {
+	font-style:italic;
+	font-size:1.5em;
+	font-family:times new roman;
+	margin-left:80px;
+	color:#483d8b
+}
+
+h1 {text-shadow:1px 1px 0 rgba(0,0,0,0.5);}
